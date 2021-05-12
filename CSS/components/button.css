@@ -1,0 +1,8 @@
+.btn-blue{
+background-color: #9147ff;
+padding: 15px 20px; 
+border-radius: 4px;
+color: white;
+font-weight: bold;
+flex-wrap: wrap;
+}
